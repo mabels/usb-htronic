@@ -1,0 +1,13 @@
+
+Used it as you want 
+don't complain on me 
+thx https://github.com/voodootikigod/node-serialport
+This is used to control the conrad H-Tronics usb device
+which has 8 Analog Input Ports and 
+8 Digital Output Ports
+PCI Device ID 1f48:0628 
+http://www.conrad.de/ce/de/product/190760/USB-IO-MODUL/SHOP_AREA_17362&promotionareaSearchDetail=005
+
+the Protocol description is written in 
+http://www.produktinfo.conrad.com/datenblaetter/175000-199999/190760-an-01-de-USB_I_O_MODUL.pdf
+
